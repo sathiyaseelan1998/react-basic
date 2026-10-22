@@ -1,0 +1,136 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+    font-family: 'Poppins',sans-serif;
+}   
+.body{
+    width: 100vw;
+    height: 100vh;
+    background-color:#dfe6e9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+
+    width: 500px;
+    background-color:#c0cedb;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    color: rgb(22, 9, 9);
+    padding: 10px;
+}
+.container .txt{
+    width: 100%;
+    display: flex;;
+    gap: 3px;
+}
+.container .txt input{
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    padding: 5px;
+    color: rgb(73, 70, 70);
+}
+.container .txt button{
+    width: 20%;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+}
+.u{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    background-color: rgb(61, 110, 11);
+}
+.a{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    background-color: rgb(131, 52, 68);
+}
+.list ul{
+    list-style-type: none;
+    font-size: 15px;
+}
+.list ul table{
+    width: 100%;
+   text-align: center;
+}
+.list ul li{
+    margin-bottom: 3px;
+    
+}
+
+.list table td{
+    padding: 5px;
+    width: 25%;
+    font-size: 15px;
+    border: none;
+}
+.list table td:first-child{
+    width: 10%;
+}
+.list table td:nth-child(2){
+    width: 10%;
+}
+.list button{
+    width: 70px;
+    height: 30px;
+    font-size: 15px;
+}
+.list li:nth-child(even){
+    background-color: rgb(225, 228, 220);
+
+}
+.list li:nth-child(odd){
+    background-color: rgb(180, 182, 177);
+}
+.list li td:nth-child(3){
+    text-align: left;
+    color: rgba(77, 48, 5, 0.959);
+    font-size: 15px;
+}
+.update{
+    background-color: rgb(12, 63, 121);
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+}
+.delete{
+    background-color: rgb(185, 62, 40);
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+}
+.show{
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    font-size: 17px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+
+}
+.show p{
+    border-bottom: 1px solid gray;
+    margin-bottom: 5px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    margin-bottom: 10px;
+    color: rgb(56, 59, 55);
+} */

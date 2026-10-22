@@ -1,0 +1,87 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "David",
+      "email": "david@gmail.com",
+      "address": {
+        "place": "kk nagar",
+        "city": "trichy"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Sam",
+      "email": "sam@gmail.com",
+      "address": {
+        "place": "tt street",
+        "city": "chennai"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Hentricks",
+      "email": "hentricks@gmail.com",
+      "address": {
+        "place": "ram road",
+        "city": "salem"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Keerthi",
+      "email": "keerthi@gmail.com",
+      "address": {
+        "place": "bb road",
+        "city": "madurai"
+      }
+    },
+    {
+      "id": "2f67",
+      "name": "mm",
+      "email": "mm@gmail.com",
+      "address": {
+        "place": "nn nagar",
+        "city": "trichy",
+        "address.place": "k",
+        "address.city": "y"
+      }
+    },
+    {
+      "id": "ffca",
+      "name": "john",
+      "email": "john@gmail.com",
+      "address": {
+        "place": "ee nagar",
+        "city": "covai"
+      }
+    },
+    {
+      "id": "5739",
+      "name": "RRRR",
+      "email": "rrrr@gmail.com",
+      "address": {
+        "place": "ram road",
+        "city": "hhh"
+      }
+    },
+    {
+      "name": "YY",
+      "email": "yy@gmail.com",
+      "address": {
+        "place": "yy road",
+        "city": "salem"
+      },
+      "id": "45a0"
+    },
+    {
+      "id": "ae2b",
+      "name": "ZZ",
+      "email": "zz@gmail.com",
+      "address": {
+        "place": "zz road",
+        "city": "theni"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+
+ *{
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+/* *{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 400px;
+}
+table{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    width: 100%;
+}
+tr,td{
+    border: 1px solid gray;
+    padding: 5px 5px;
+}
+td:first-child{
+    font-weight: bold;
+}
+td:last-child{
+    color: rgb(78, 10, 38);
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 15px;
+}
+.input input{
+    padding: 5px;
+}
+.radio{
+    display: flex;
+    gap: 20px;
+}
+.city select{
+    width: 100%;
+    padding: 5px;
+}
+.area textarea{
+    width: 100%;
+} */

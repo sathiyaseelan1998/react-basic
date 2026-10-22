@@ -1,0 +1,44 @@
+{
+  "employee": [
+    {
+      "id": "ad4c",
+      "name": "Virat Kohli",
+      "email": "virat@gmail.com",
+      "password": "virat",
+      "address": {
+        "city": "Chennai",
+        "pincode": "621007"
+      }
+    },
+    {
+      "id": "60d0",
+      "name": "Rohit",
+      "email": "rohit@gmail.com",
+      "password": "rohit",
+      "address": {
+        "city": "Mumbai",
+        "pincode": "643123"
+      }
+    },
+    {
+      "id": "eb30",
+      "name": "smith",
+      "email": "smith@gmail.com",
+      "password": "smith",
+      "address": {
+        "city": "Trichy",
+        "pincode": "600123"
+      }
+    },
+    {
+      "id": "9e43",
+      "name": "bumrah",
+      "email": "bumrah@gmail.com",
+      "password": "bumrah",
+      "address": {
+        "city": "Delhi",
+        "pincode": "543001"
+      }
+    }
+  ]
+}

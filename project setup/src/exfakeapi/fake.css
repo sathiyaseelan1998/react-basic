@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    box-sizing: border-box;
+}
+.body{
+    width: 300px;
+}
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+table th,td{
+    border: 1px solid;
+}
+
+table th{
+    padding: 10px;
+    width: 100%;
+    background-color: red;
+
+}
